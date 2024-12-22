@@ -1,1 +1,1 @@
-# Solution-of-differential-equation-
+# Solution-of-differential-equation- in this material the various processess of solving a 2nd order linear homogeneous and non homogeneous differential equation have discussed with suitable example. To get the video please click on https://youtu.be/TFkTwPZYM50?si=0-qjpOrSyqdJniNH
